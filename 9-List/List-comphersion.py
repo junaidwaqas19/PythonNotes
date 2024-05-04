@@ -1,3 +1,4 @@
+
 numbers=[1,2,3,4,5,6]
 new_list =[num ** 2 for num in numbers]
 print(new_list)
