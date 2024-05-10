@@ -1,0 +1,7 @@
+def animal_names(species,*names):
+    names_str = ', '.join(names)
+    message = f"{species} names:{names_str}"
+    return message
+
+result = animal_names("Hen","very lovely chicken",'chicken','birds')
+print(result)
