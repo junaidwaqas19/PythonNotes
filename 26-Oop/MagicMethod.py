@@ -24,3 +24,4 @@ car3 =Car("black","chevy","silverodi",2023)
 print(car1==car2)
 print(car1==car3)
 
+num=2
